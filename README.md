@@ -6,6 +6,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=sysptr&label=Profile%20views&color=007ec6&style=flat)
 
+*(Old GitHub account: [github.com/spinbara](https://github.com/spinbara))*
+
 ## 📫 Social Media
 
 **Discord:** `spinbara` &nbsp;·&nbsp; **Discord Server:** [---](https://discord.gg/)  
