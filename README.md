@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://i.imgur.com/p8TIfpz.jpeg" alt="sysptr banner" width="100%" />
+
+<br><br>
+
 # Hey, i'm Lukasz! 👋
 
 ---
