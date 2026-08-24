@@ -2,28 +2,16 @@
 
 <img src="https://i.imgur.com/p8TIfpz.jpeg" alt="sysptr banner" width="100%" />
 
-<br><br>
-
 # Hey, i'm Lukasz! 👋
-
----
 
 ![Profile views](https://komarev.com/ghpvc/?username=sysptr&label=Profile%20views&color=007ec6&style=flat)
 
-<br>
-
 ## 📫 Social Media
-
----
 
 **Discord:** `spinbara` &nbsp;·&nbsp; **Discord Server:** [---](https://discord.gg/)  
 **Email:** [kadzonbiznes@gmail.com](mailto:kadzonbiznes@gmail.com) &nbsp;·&nbsp; **Website:** [spinbara.space](https://spinbara.space)
 
-<br>
-
 ## ⚒ Languages
-
----
 
 ![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)
@@ -36,11 +24,7 @@
 ![JDA](https://img.shields.io/badge/JDA-000000?style=flat&logo=openjdk&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/PYTHON-000000?style=flat&logo=python&logoColor=3776AB)
 
-<br>
-
 ## ⚒ Tools
-
----
 
 ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=F05032)
 ![Github](https://img.shields.io/badge/Github-000000?style=flat&logo=github&logoColor=white)
@@ -52,7 +36,6 @@
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=F24E1E)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=4479A1)
-<br>
 ![Debian](https://img.shields.io/badge/Debian-000000?style=flat&logo=debian&logoColor=A80030)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=flat&logo=ubuntu&logoColor=E95420)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=FCC624)
